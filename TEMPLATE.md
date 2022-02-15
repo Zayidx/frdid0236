@@ -7,11 +7,11 @@
 ~/Dyzean: fetch.sh
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/69681505?v=4" width="280" />
+<img align="left" src="https://avatars.githubusercontent.com/u/69681505?v=4" width="290" />
 
 ```csharp
-ashtrath@atlantis
-~~~~~~~~~~~~~~~~~>>
+ashtrath@github
+------------------------------
 os       • endeavouros x86_64
 shell    • fish v3.3.1
 wms      • worm
@@ -19,7 +19,7 @@ wms      • worm
 pronouns • he/him
 learning • html, sass, node.js,
            bash, lua, viml.
-hobbies  • gaming, code, watching anime, drink coffee~
+hobbies  • gaming, code, watching anime, drink coffee.
 discord  • rye.#0401
 
 repos    • {{ REPOSITORIES }}
