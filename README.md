@@ -9,7 +9,7 @@
 
 <img align="left" src="https://avatars.githubusercontent.com/u/69681505?v=4" width="290" />
 
-```csharp
+```haskell
 ashtrath@github
 ------------------------------
 os       • endeavouros x86_64
@@ -23,6 +23,6 @@ hobbies  • gaming, code, watching anime, drink coffee.
 discord  • rye.#0401
 
 repos    • 10
-commits  • 243
+commits  • 244
 issues   • 7
 ```
