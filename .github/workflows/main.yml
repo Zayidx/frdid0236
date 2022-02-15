@@ -1,0 +1,36 @@
+on:
+  schedule:
+    - cron: '0 */12 * * *' # every 12 hours
+  push:
+    branches:
+      - main
+      
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
+    
+jobs:
+  generate_readme:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+        
+    - name: stats: generate readme
+      uses: emlyn-arkahna/profile-readme-stats@master
+      with:
+        token: ${{ secrets.USER_TOKEN }}
+        
+    - name: readme: update stats.
+      run: |
+        if [[ "$(git status --porcelain)" != "" ]]; then
+        git config user.name github-actions[bot]
+        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+        git add .
+        git commit -m "Update README"
+        git push
+        fi
