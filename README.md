@@ -7,7 +7,7 @@
 ~/Dyzean: fetch.sh
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/69681505?v=4" width="320" />
+<img align="left" src="https://avatars.githubusercontent.com/u/69681505?v=4" width="300" />
 
 ```csharp
 ashtrath@atlantis
