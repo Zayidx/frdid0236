@@ -9,7 +9,7 @@
 
 <img align="left" src="https://avatars.githubusercontent.com/u/69681505?v=4" width="290" />
 
-```csharp
+```haskell
 ashtrath@github
 ------------------------------
 os       • endeavouros x86_64
