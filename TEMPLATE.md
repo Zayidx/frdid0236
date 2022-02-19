@@ -13,13 +13,14 @@
 ashtrath@github
 ------------------------------
 os       • endeavouros x86_64
-shell    • fish v3.3.1
+shell    • fish 3.3.1
 wms      • worm
 
 pronouns • he/him
 learning • html, sass, node.js,
            bash, lua, viml.
-hobbies  • gaming, code, watching anime, drink coffee.
+hobbies  • gaming, code, ricing,
+           watching anime, drink coffee.
 discord  • rye.#0401
 
 repos    • {{ REPOSITORIES }}
