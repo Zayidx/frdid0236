@@ -24,6 +24,6 @@ hobbies  • gaming, code, ricing,
 discord  • rye.#0401
 
 repos    • 10
-commits  • 253
+commits  • 254
 issues   • 9
 ```
