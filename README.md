@@ -23,7 +23,7 @@ hobbies  • gaming, code, ricing,
            watching anime, drink coffee.
 discord  • rye.#0401
 
-repos    • 9
+repos    • 10
 commits  • 267
 issues   • 9
 ```
