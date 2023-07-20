@@ -26,4 +26,5 @@ discord  • rye.#0401
 repos    • {{ REPOSITORIES }}
 commits  • {{ COMMITS }}
 issues   • {{ ISSUES }}
+stars    • {{ STARS }}
 ```
