@@ -12,19 +12,20 @@
 ```haskell
 ashtrath@github
 ------------------------------
-os       • endeavouros x86_64
-shell    • fish 3.3.1
-wms      • worm
+os       • windows 10 22h2
+term     • wezterm
+shell    • pwsh 7.3.6
+wms      • dwm
 
 pronouns • he/him
 learning • html, sass, node.js,
            bash, lua, viml.
 hobbies  • gaming, code, ricing,
            watching anime, drink coffee.
-discord  • rye.#0401
+discord  • @ashtrath
 
 repos    • 7
-commits  • 174
+commits  • 175
 issues   • 9
 stars    • 168
 ```
