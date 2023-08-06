@@ -24,8 +24,8 @@ hobbies  • gaming, code, ricing,
            watching anime, drink coffee.
 discord  • @ashtrath
 
-repos    • 8
-commits  • 182
+repos    • 7
+commits  • 175
 issues   • 9
 stars    • 172
 ```
