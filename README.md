@@ -25,7 +25,7 @@ hobbies  • gaming, code, ricing,
 discord  • @ashtrath
 
 repos    • 8
-commits  • 179
+commits  • 181
 issues   • 9
 stars    • 185
 ```
