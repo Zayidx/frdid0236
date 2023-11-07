@@ -26,6 +26,6 @@ discord  • @ashtrath
 
 repos    • 8
 commits  • 181
-issues   • 9
+issues   • 10
 stars    • 186
 ```
