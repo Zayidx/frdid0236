@@ -5,7 +5,7 @@
 ~/Dyzean: fetch.sh
 ```
 
-<img align="left" src="https://github.com/Dyzean.png" width="465" />
+<img align="left" src="https://github.com/Dyzean.png" width="411" />
 
 ```haskell
 ashtrath@github
