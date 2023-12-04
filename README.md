@@ -5,7 +5,7 @@
 ~/Dyzean: fetch.sh
 ```
 
-<img align="left" src="https://github.com/Dyzean.png" width="465" />
+<img align="left" src="https://github.com/Dyzean.png" width="411" />
 
 ```haskell
 ashtrath@github
@@ -27,7 +27,7 @@ learning  • tailwindcss, nodejs, vue.js,
             csharp, figma, unity
 
 repos     • 9
-commits   • 182
+commits   • 183
 issues    • 10
 stars     • 193
 ```
