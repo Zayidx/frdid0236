@@ -2,13 +2,13 @@
 
 
 ```sh
-~/Dyzean: fetch.sh
+Front End Dev
 ```
 
-<img align="left" src="AVATAR" width="411" />
+<img align="left" src="PROFILE.JPG" width="411" />
 
 ```haskell
-ashtrath@github
+frdid0236@github
 ------------------------------
 os        • windows 10
 term      • cmd
@@ -23,10 +23,10 @@ skills    • html, css, javascript,
             c, lua
 learning  • tailwindcss, bootstarp, figma, unity
 
-repos     • 9
-commits   • 184
-issues    • 10
-stars     • 193
+repos     • 2
+commits   • 0
+issues    • 0
+stars     • 0
 ```
 
 <h1></h1>
