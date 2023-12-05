@@ -5,26 +5,23 @@
 ~/Dyzean: fetch.sh
 ```
 
-<img align="left" src="https://github.com/Dyzean.png" width="411" />
+<img align="left" src="https://freeimage.host/i/JIFT0JI" width="411" />
 
 ```haskell
 ashtrath@github
 ------------------------------
-os        • atlasos 2.0
-term      • wezterm
-shell     • pwsh 7.3.6
-wms       • dwm
+os        • windows 10
+term      • cmd
 
 pronouns  • he/him
 address   • west java, indonesia
-school    • smkn 1 ciomas
-hobbies   • gaming, code, ricing,
+school    • smkn 1 bekasi
+hobbies   • gaming, code, reading book,
             watching anime, drink coffee.
 
 skills    • html, css, javascript,
-            php, mysql
-learning  • tailwindcss, nodejs, vue.js,
-            csharp, figma, unity
+            c, lua
+learning  • tailwindcss, bootstarp, figma, unity
 
 repos     • 9
 commits   • 184
